@@ -1,7 +1,10 @@
 master
 
-nhánh2
-main1
+
+nhánh 2
+nhánh 3
+main 3
+main 1
 nhánh 1
-main2
+main 2
 
